@@ -2,13 +2,15 @@
 
 <img src="https://ucdc3c9407c2e14092349e154003.previews.dropboxusercontent.com/p/thumb/ABeKM5KQ6auPY63f72DAr14nsuDdS31kX1ZgqpxAoV84zzapHhC6n-z0QgbKAWb_0MZ3MCEipuXIIMg9jL6QPpJUnw4rjhcaSuHVr57T0VrrVxGhBUPu_mW1iKMcwvIo3JKE_VG6tQ1_ROLVVEgR7KIgJfXdybyn6VrH7rdfG-38IViW1ysUWRGd_D8E6LkxCa-DVhdnET345BPdHV5ZtJWRqp4rkZ7g9W_qiPqkG2XqJDSSsxuJj2elWjC3prlO2C5MPph5e7m8-gWXuQ_rRpuqVnEgbWkm7fOc5sAb3NQkQp-vz9DD8JjkzTEAPVE-08uZ8I-NCJ16-lnFqplvgHUq6ttVgn7cKThi6ufTMiQsEnOANjmnTrFNHAFU6-QSwMg/p.png" width="200" />
 
-|Member|Link| 
-|-|-|
-| Gautam Vhavle | https://www.linkedin.com/in/gautamvhavle |
-| Suhaas Borra | https://www.linkedin.com/in/suhaasborra |
+| Member | LinkedIn | Devfolio |
+|-|-|-|
+| Lokesh Agarwal | - | https://devfolio.co/@LokeshAgarwal |
+| Vivan Jaiswal | https://bit.ly/vivojay-on-linkedin | https://devfolio.co/@vivojay |
+| Gautam Vhavle | https://www.linkedin.com/in/gautamvhavle | https://devfolio.co/@GautamVhavle |
+| Suhaas Borra | https://www.linkedin.com/in/suhaasborra | https://devfolio.co/@suhaas_code |
 
 [Website](https://gautamvhavle.wixsite.com/website)  
-[GitHub (Project)](https://github.com/Suhaas-code/HACKNITRR-PEACE)  
+[GitHub (Project)](https://github.com/GautamVhavle/HACKHUB2022)  
 
 1. Open `TheParkingSpot.pdf` to learn about our Project 
 2. Run `sketch_pSpot.ino` on arduino to start the Project
@@ -21,9 +23,9 @@
 
 **What's working**  
 - The Web-app is completely functional
+- Notification API to work on live feed from the arduino board, this will let the app to show the parking location of your vehicle  
 
 **Expect in later versions**  
-- Notification API to work on live feed from the arduino board, this will let the app to show the parking location of your vehicle  
 - Augmented Reality based navigation, minimal animated interface to show arrows, probably based on Material You theming engine (_Android 12_)
 
 
