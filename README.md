@@ -4,7 +4,7 @@
 
 | Member | LinkedIn | Devfolio |
 |-|-|-|
-| Lokesh Agarwal | - | https://devfolio.co/@LokeshAgarwal |
+| Lokesh Agarwal | https://www.linkedin.com/in/lokesh-ag/ | https://devfolio.co/@LokeshAgarwal |
 | Vivan Jaiswal | https://bit.ly/vivojay-on-linkedin | https://devfolio.co/@vivojay |
 | Gautam Vhavle | https://www.linkedin.com/in/gautamvhavle | https://devfolio.co/@GautamVhavle |
 | Suhaas Borra | https://www.linkedin.com/in/suhaasborra | https://devfolio.co/@suhaas_code |
